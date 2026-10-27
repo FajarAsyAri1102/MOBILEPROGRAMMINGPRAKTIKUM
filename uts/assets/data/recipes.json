@@ -1,0 +1,60 @@
+{
+  "recipes": [
+    {
+      "id": 1, "name": "Nasi Goreng Kampung", "category": "Makanan Berat",
+      "image": "https://loremflickr.com/800/600/nasigoreng?lock=1",
+      "cookTimeMinutes": 20, "servings": 2, "difficulty": "Mudah", "rating": 4.7, "isPopular": true,
+      "ingredients": ["2 piring nasi putih", "3 siung bawang putih", "4 siung bawang merah", "3 buah cabai merah", "2 butir telur", "2 sdm kecap manis", "Garam dan merica secukupnya"],
+      "steps": ["Haluskan bawang putih, bawang merah, dan cabai.", "Tumis bumbu halus hingga harum.", "Masukkan telur, orak-arik hingga matang.", "Tambahkan nasi, kecap manis, garam, dan merica. Aduk rata.", "Sajikan selagi hangat dengan kerupuk."]
+    },
+    {
+      "id": 2, "name": "Soto Ayam Lamongan", "category": "Makanan Berat",
+      "image": "https://loremflickr.com/800/600/soto?lock=2",
+      "cookTimeMinutes": 60, "servings": 4, "difficulty": "Sedang", "rating": 4.8, "isPopular": true,
+      "ingredients": ["500 g daging ayam", "2 liter air", "2 batang serai", "3 lembar daun jeruk", "1 sdt kunyit bubuk", "Soun, tauge, dan telur rebus", "Bawang goreng untuk taburan"],
+      "steps": ["Rebus ayam bersama serai dan daun jeruk hingga empuk.", "Haluskan bumbu, lalu tumis hingga harum.", "Masukkan tumisan ke dalam kuah kaldu.", "Suwir ayam, susun di mangkuk bersama soun dan tauge.", "Siram kuah panas dan taburi bawang goreng."]
+    },
+    {
+      "id": 3, "name": "Rendang Daging Sapi", "category": "Makanan Berat",
+      "image": "https://loremflickr.com/800/600/rendang?lock=3",
+      "cookTimeMinutes": 180, "servings": 6, "difficulty": "Sulit", "rating": 4.9, "isPopular": true,
+      "ingredients": ["1 kg daging sapi", "1 liter santan kental", "2 lembar daun kunyit", "3 batang serai", "5 lembar daun jeruk", "Bumbu halus: cabai, bawang, lengkuas, jahe"],
+      "steps": ["Tumis bumbu halus hingga harum.", "Masukkan daging, aduk hingga berubah warna.", "Tuang santan, masak dengan api kecil sambil sesekali diaduk.", "Masak sekitar 3 jam hingga kuah mengering dan berminyak.", "Angkat dan sajikan."]
+    },
+    {
+      "id": 4, "name": "Pisang Goreng Crispy", "category": "Camilan",
+      "image": "https://loremflickr.com/800/600/friedbanana?lock=4",
+      "cookTimeMinutes": 25, "servings": 4, "difficulty": "Mudah", "rating": 4.5, "isPopular": false,
+      "ingredients": ["6 buah pisang kepok", "100 g tepung terigu", "50 g tepung beras", "1 sdm gula pasir", "Air es secukupnya", "Minyak untuk menggoreng"],
+      "steps": ["Campur tepung terigu, tepung beras, dan gula.", "Tambahkan air es sedikit demi sedikit hingga kental.", "Celupkan pisang ke adonan.", "Goreng dalam minyak panas hingga keemasan.", "Tiriskan dan sajikan."]
+    },
+    {
+      "id": 5, "name": "Tahu Isi Sayur", "category": "Camilan",
+      "image": "https://loremflickr.com/800/600/friedtofu?lock=5",
+      "cookTimeMinutes": 30, "servings": 5, "difficulty": "Mudah", "rating": 4.4, "isPopular": false,
+      "ingredients": ["10 buah tahu pong", "1 buah wortel, parut", "100 g tauge", "2 siung bawang putih", "Garam dan merica secukupnya", "Cabai rawit sebagai pelengkap"],
+      "steps": ["Tumis bawang putih, lalu masukkan wortel dan tauge.", "Bumbui dengan garam dan merica.", "Belah tahu, isi dengan tumisan sayur.", "Goreng hingga kecokelatan.", "Sajikan dengan cabai rawit."]
+    },
+    {
+      "id": 6, "name": "Es Teh Tarik", "category": "Minuman",
+      "image": "https://loremflickr.com/800/600/icedtea?lock=6",
+      "cookTimeMinutes": 10, "servings": 2, "difficulty": "Mudah", "rating": 4.3, "isPopular": false,
+      "ingredients": ["2 sdm teh hitam", "300 ml air panas", "4 sdm susu kental manis", "Es batu secukupnya"],
+      "steps": ["Seduh teh dengan air panas selama 5 menit.", "Saring dan campurkan dengan susu kental manis.", "Tuang bolak-balik antar gelas agar berbusa.", "Sajikan dengan es batu."]
+    },
+    {
+      "id": 7, "name": "Wedang Jahe Serai", "category": "Minuman",
+      "image": "https://loremflickr.com/800/600/gingertea?lock=7",
+      "cookTimeMinutes": 15, "servings": 3, "difficulty": "Mudah", "rating": 4.6, "isPopular": true,
+      "ingredients": ["1 ruas jahe, memarkan", "2 batang serai, memarkan", "3 gelas air", "Gula merah secukupnya"],
+      "steps": ["Rebus air bersama jahe dan serai.", "Tambahkan gula merah, aduk hingga larut.", "Didihkan 10 menit, lalu saring.", "Sajikan hangat."]
+    },
+    {
+      "id": 8, "name": "Klepon Isi Gula Merah", "category": "Dessert",
+      "image": "https://loremflickr.com/800/600/dessert?lock=8",
+      "cookTimeMinutes": 40, "servings": 6, "difficulty": "Sedang", "rating": 4.7, "isPopular": true,
+      "ingredients": ["250 g tepung ketan", "150 ml air daun pandan", "100 g gula merah, sisir halus", "150 g kelapa parut kukus", "Sejumput garam"],
+      "steps": ["Campur tepung ketan dengan air pandan hingga kalis.", "Bulatkan adonan, isi dengan gula merah.", "Rebus hingga mengapung.", "Angkat dan gulingkan di kelapa parut.", "Sajikan."]
+    }
+  ]
+}
